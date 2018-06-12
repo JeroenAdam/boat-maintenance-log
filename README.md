@@ -1,4 +1,6 @@
-# Maintenance log of my Jeanneau Sun Odyssey 45 DS (2008)
+# Maintenance log of my Jeanneau Sun Odyssey 45 DS
+
+My BLOG with stories about my voyages: http://www.adambahri.com
 
 # 2008
 
@@ -23,19 +25,19 @@ Cherbourgh
  1. Antifouling 7.5L (International Micron)
  2. Exhaust water muffler inlet nipple leak has been fixed by resealing with heavy duty black 'cement' (done by Accastillage Diffusion)
 
-#2010
+# 2010
 
 Oostende
 
  1. Engine + gearbox fully serviced at 550h (done by Yanmar dealer)
 
-#2011
+# 2011
 
 Antwerpen
 
  1. Antifouling (Sigma Ecofleet 12L, copper)
 
-#2012
+# 2012
 
 Oostende
 
@@ -55,21 +57,21 @@ Nieuwpoort
  2. Engine oil change
  3. P-bracket repair after propeller caught a 10mm line. The repair is documented here
 
-#2013
+# 2013
 
 Rabat
 
  1. Engine coolant change
  2. 9L washing machine 220v (cheap), easily stored in the cockpit, attached to railing, seepicture
 
-#2014
+# 2014
 
 Rabat
 
  1. Engine oil change
  2. Engine coolant change
 
-#2015
+# 2015
 
 Smir
 
@@ -77,7 +79,7 @@ Smir
  2. Cutlass bearing replaced, see picture
  3. Engine coolant change
 
-#2016
+# 2016
 
 Rabat
 
@@ -87,7 +89,7 @@ Rabat
  4. New battery charger Cristec 40A (fanless)
  5. New sprayhood, see picture
 
-#2017
+# 2017
 
 Rabat
 
@@ -103,7 +105,7 @@ Smir
  2. Volvo Dripless seal replaced, old seal = not leaking = spare
  3. 2nd toilet outlet replaced, see picture
 
-#2018
+# 2018
 
 Rabat
 
@@ -114,7 +116,7 @@ Rabat
  5. Cockpit teak: all sanded until flat surface
  6. Toilet outlet tube cleaned
 
-#PLANNED 2019
+# PLANNED 2019
 
  1. Antifouling
  2. Mount temp. sensor on top of engine head
@@ -122,7 +124,7 @@ Rabat
  4. Solve depth sensor/cabling/controller malfunction, spare sensor+cable on board, if controller failed, replace with Actisense DST-2 at 250€ cost
  5. Exhaust elbox replacement at 350€ cost
 
-#PLANNED 2020
+# PLANNED 2020
 
  1. Renew saloon fabric
  2. Service Johnson bilge pump, preventively replace housing at 90€ cost
@@ -130,3 +132,5 @@ Rabat
 
 Old pictures from marina Rabat
 https://farm1.staticflickr.com/606/21040956586_40c783ca7a_o.jpg https://farm6.staticflickr.com/5826/20446117753_96da7a6efa_o.jpg 
+
+My BLOG with stories about my voyages: http://www.adambahri.com
