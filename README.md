@@ -42,7 +42,7 @@ Antwerpen
 Oostende
 
  1. New AIS receiver, stand-alone Navtex
- 2. Solar installation (4x Victron 130W panel + mppt controller + tubing), ), see picture
+ 2. Solar installation (4x Victron 130W panel + mppt controller + tubing), see picture
  3. New carbon mainsail (still in perfect condition today, almost not been used), see picture1 and picture2
  4. New carbon genoa (never been used, still in original package)
  5. New portable VHF
