@@ -32,6 +32,7 @@ Table of Contents
 ◾PLANNED 2020
  
 2008
+
 Drimmelen
 
   1. Delivery from factory and commissioning, see picture
@@ -43,6 +44,7 @@ Oostende
  1. Engine + gearbox fully serviced at 50h (done by Yanmar dealer)
 
 2009
+
 Oostende
 
  1. Simrad NX40 chart plotter + Simard digital radar BR24, see picture
@@ -53,16 +55,19 @@ Cherbourgh
  2. Exhaust water muffler inlet nipple leak has been fixed by resealing with heavy duty black 'cement' (done by Accastillage Diffusion)
 
 2010
+
 Oostende
 
  1. Engine + gearbox fully serviced at 550h (done by Yanmar dealer)
 
 2011
+
 Antwerpen
 
  1. Antifouling (Sigma Ecofleet 12L, copper)
 
 2012
+
 Oostende
 
  1. New AIS receiver, stand-alone Navtex
@@ -82,18 +87,21 @@ Nieuwpoort
  3. P-bracket repair after propeller caught a 10mm line. The repair is documented here
 
 2013
+
 Rabat
 
  1. Engine coolant change
  2. 9L washing machine 220v (cheap), easily stored in the cockpit, attached to railing, seepicture
 
 2014
+
 Rabat
 
  1. Engine oil change
  2. Engine coolant change
 
 2015
+
 Smir
 
  1. Antifouling (Hempel Olympic, copper, 19L!)
@@ -101,6 +109,7 @@ Smir
  3. Engine coolant change
 
 2016
+
 Rabat
 
  1. Engine oil change
@@ -110,6 +119,7 @@ Rabat
  5. New sprayhood, see picture
 
 2017
+
 Rabat
 
  1. 5 new batteries Bosch S4 'Silver' batteries
@@ -125,6 +135,7 @@ Smir
  3. 2nd toilet outlet replaced, see picture
 
 2018
+
 Rabat
 
  1. Engine oil change
