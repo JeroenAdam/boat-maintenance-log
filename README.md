@@ -123,10 +123,11 @@ Rabat
  3. Solve depth sensor/cabling/controller malfunction, spare sensor+cable on board, if controller failed, replace with Actisense DST-2 at 250€ cost
  4. Exhaust elbox replacement at 350€ cost
  
-# PLANNED 2020 Renew saloon fabric
+# PLANNED 2020
 
- 1. Service Johnson bilge pump, preventively replace housing at 90€ cost
- 2. 2x Optima red top battery refit (bow thruster) at 500€ cost
+ 1. Renew saloon fabric
+ 2. Service Johnson bilge pump, preventively replace housing at 90€ cost
+ 3. 2x Optima red top battery refit (bow thruster) at 500€ cost
 
 
 Pictures at marina Rabat 2015: [picture1](https://farm1.staticflickr.com/606/21040956586_40c783ca7a_o.jpg)
