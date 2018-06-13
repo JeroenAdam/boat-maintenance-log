@@ -97,7 +97,7 @@ Rabat
  2. Anchor windlass checked + cleaned
  3. New cockpit cushions, see [picture](pictures/albughaz2017.jpg)
  4. Fridge tube leak repaired: new … + gas refill
- 5. New navigation station with following capabilities: chart/GPS/AIS/compass/speed/wind/depth/engine temp./atmospheric pressure, see [picture](pictures/NUCNavStation.jpg) - the old Simrad NX40 chart plotter with GPS/AIS/radar as backup
+ 5. New navigation station with following capabilities: chart/GPS/AIS/compass/speed/wind/depth/engine temp./atmospheric pressure, see [picture](pictures/NUCNavstation.jpg) - the old Simrad NX40 chart plotter with GPS/AIS/radar as backup
 
 Smir
 
@@ -130,7 +130,7 @@ Rabat
  2. Service Johnson bilge pump, preventively replace housing at 90€ cost
  3. 2x Optima red top battery refit (bow thruster) at 500€ cost
 
-Old pictures from marina Rabat
-https://farm1.staticflickr.com/606/21040956586_40c783ca7a_o.jpg https://farm6.staticflickr.com/5826/20446117753_96da7a6efa_o.jpg 
+Pictures at marina Rabat 2015: [picture1](https://farm1.staticflickr.com/606/21040956586_40c783ca7a_o.jpg)
+ [picture2](https://farm6.staticflickr.com/5826/20446117753_96da7a6efa_o.jpg)
 
 My BLOG with stories about my voyages: http://www.adambahri.com
