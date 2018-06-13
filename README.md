@@ -18,7 +18,7 @@ Oostende
 
 Oostende
 
- 1. Simrad NX40 chart plotter + Simard digital radar BR24, see picture
+ 1. Simrad NX40 chart plotter + Simard digital radar BR24, see [picture](pictures/TouchNavstation.jpg)
 
 Cherbourgh
 
@@ -42,8 +42,8 @@ Antwerpen
 Oostende
 
  1. New AIS receiver, stand-alone Navtex
- 2. Solar installation (4x Victron 130W panel + mppt controller + tubing), see picture
- 3. New carbon mainsail (still in perfect condition today, almost not been used), see picture1 and picture2
+ 2. Solar installation (4x Victron 130W panel + mppt controller + tubing), see [picture](pictures/solar.jpg)
+ 3. New carbon mainsail (still in perfect condition today, almost not been used), see [picture](pictures/sailing04.jpg) and [picture](pictures/sailing03.jpg)
  4. New carbon genoa (never been used, still in original package)
  5. New portable VHF
  6. New Mercury 2.5hp outboard (almost not been used)
@@ -53,16 +53,16 @@ Oostende
 
 Nieuwpoort
 
- 1. Antifouling (Sigma Ecofleet 8L, copper), see picture
+ 1. Antifouling (Sigma Ecofleet 8L, copper), see [picture](pictures/maintenance.jpg)
  2. Engine oil change
- 3. P-bracket repair after propeller caught a 10mm line. The repair is documented here
+ 3. P-bracket repair after propeller caught a 10mm line. The repair is documented [here](http://jeanneau.proboards.com/thread/4797/leak-bracket-joint-after-line)
 
 # 2013
 
 Rabat
 
  1. Engine coolant change
- 2. 9L washing machine 220v (cheap), easily stored in the cockpit, attached to railing, seepicture
+ 2. 9L washing machine 220v (cheap), easily stored in the cockpit, attached to railing, see [picture](pictures/tanger2017.jpg)
 
 # 2014
 
@@ -76,7 +76,7 @@ Rabat
 Smir
 
  1. Antifouling (Hempel Olympic, copper, 19L!)
- 2. Cutlass bearing replaced, see picture
+ 2. Cutlass bearing replaced, see [picture](pictures/cutlass.jpg)
  3. Engine coolant change
 
 # 2016
@@ -87,7 +87,7 @@ Rabat
  2. Engine coolant change
  3. Engine diesel filter changed (old filter = clean)
  4. New battery charger Cristec 40A (fanless)
- 5. New sprayhood, see picture
+ 5. New sprayhood, see [picture](pictures/tanger2017.jpg)
 
 # 2017
 
@@ -95,15 +95,15 @@ Rabat
 
  1. 5 new batteries Bosch S4 'Silver' batteries
  2. Anchor windlass checked + cleaned
- 3. New cockpit cushions, see picture
+ 3. New cockpit cushions, see [picture](pictures/albughaz2017.jpg)
  4. Fridge tube leak repaired: new … + gas refill
- 5. New navigation station with following capabilities: chart/GPS/AIS/compass/speed/wind/depth/engine temp./atmospheric pressure, see picture - the old Simrad NX40 chart plotter with GPS/AIS/radar as backup
+ 5. New navigation station with following capabilities: chart/GPS/AIS/compass/speed/wind/depth/engine temp./atmospheric pressure, see [picture](pictures/NUCNavStation.jpg) - the old Simrad NX40 chart plotter with GPS/AIS/radar as backup
 
 Smir
 
- 1. Pressure wash, no new antifouling, see picture1 picture2 picture3
+ 1. Pressure wash, no new antifouling, see [picture](pictures/maintenance2017bakboord.jpg) [picture](pictures/maintenance2017schroef.jpg) [picture](pictures/maintenance2017stuurboord.jpg)
  2. Volvo Dripless seal replaced, old seal = not leaking = spare
- 3. 2nd toilet outlet replaced, see picture
+ 3. 2nd toilet outlet replaced, see [picture](pictures/rompdoorvoer-2de-toilet.jpg)
 
 # 2018
 
