@@ -118,8 +118,8 @@ Rabat
 
 # PLANNED 2019 Antifouling
 
- 1. Mount temp. sensor on top of engine head
- 2. Replace thru hulls, all parts (=Bronze) on board, remains to be serviced: head sink outlet + engine inlet
+ 1. Mount temperature sensor on top of engine head
+ 2. Replace 3 thru hulls, all parts (=bronze) on board, remaining to be serviced: head sink outlet + engine inlet
  3. Solve depth sensor/cabling/controller malfunction, spare sensor+cable on board, if controller failed, replace with Actisense DST-2 at 250€ cost
  4. Exhaust elbox replacement at 350€ cost
  
