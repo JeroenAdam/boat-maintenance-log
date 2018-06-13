@@ -103,7 +103,7 @@ Smir
 
  1. Pressure wash, no new antifouling, see [picture](pictures/maintenance2017bakboord.jpg) [picture](pictures/maintenance2017schroef.jpg) [picture](pictures/maintenance2017stuurboord.jpg)
  2. Volvo Dripless seal replaced, old seal = not leaking = spare
- 3. 2nd toilet outlet replaced, see [picture](pictures/rompdoorvoer-2de-toilet.jpg)
+ 3. 2nd toilet outlet replaced, compartment converted to storage space, see [picture](pictures/rompdoorvoer-2de-toilet.jpg)
 
 # 2018
 
@@ -120,7 +120,7 @@ Rabat
 
  1. Antifouling
  2. Mount temperature sensor on top of engine head
- 3. Replace thru hulls, all parts (=bronze) on board, remains to be serviced: head sink outlet + engine inlet
+ 3. Replace 3 thru hulls, all parts (=bronze) on board, remaining to be serviced: head sink outlet + engine inlet
  4. Solve depth sensor/cabling/controller malfunction, spare sensor+cable on board, if controller failed, replace with Actisense DST-2 at 250€ cost
  5. Exhaust elbox replacement at 350€ cost
 
