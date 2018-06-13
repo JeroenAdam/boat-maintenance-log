@@ -107,6 +107,28 @@ Smir
 
 # 2018
 
+Rabat
+
+ 1. Engine oil change
+ 2. Engine coolant change
+ 3. Engine raw water impeller change
+ 4. Engine total hours: 1200
+ 5. Cockpit teak: all sanded until flat surface
+ 6. Toilet outlet tube cleaned
+
+# PLANNED 2019 Antifouling
+
+ 1. Mount temp. sensor on top of engine head
+ 2. Replace thru hulls, all parts (=Bronze) on board, remains to be serviced: head sink outlet + engine inlet
+ 3. Solve depth sensor/cabling/controller malfunction, spare sensor+cable on board, if controller failed, replace with Actisense DST-2 at 250€ cost
+ 4. Exhaust elbox replacement at 350€ cost
+ 
+# PLANNED 2020 Renew saloon fabric
+
+ 1. Service Johnson bilge pump, preventively replace housing at 90€ cost
+ 2. 2x Optima red top battery refit (bow thruster) at 500€ cost
+
+
 Pictures at marina Rabat 2015: [picture1](https://farm1.staticflickr.com/606/21040956586_40c783ca7a_o.jpg)
  [picture2](https://farm6.staticflickr.com/5826/20446117753_96da7a6efa_o.jpg)
 
