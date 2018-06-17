@@ -93,10 +93,10 @@ Rabat
 
 Rabat
 
- 1. 5 new batteries Bosch S4 'Silver' batteries
+ 1. 5 new batteries Bosch S4 'Silver' 100AH
  2. Anchor windlass checked + cleaned
  3. New cockpit cushions, see [picture](pictures/albughaz2017.jpg)
- 4. Fridge tube leak repaired: new … + gas refill
+ 4. Fridge tube leak repaired: new evaporator + gas refill
  5. New navigation station with following capabilities: chart/GPS/AIS/compass/speed/wind/depth/engine temp./atmospheric pressure, see [picture](pictures/NUCNavstation.jpg) - the old Simrad NX40 chart plotter with GPS/AIS/radar as backup
 
 Smir
