@@ -98,7 +98,7 @@ Rabat
  2. Anchor windlass checked + cleaned
  3. New cockpit cushions, see [picture](pictures/albughaz2017.jpg)
  4. Fridge tube leak repaired: new evaporator + gas refill
- 5. New navigation station with following capabilities: chart/GPS/AIS/radar/compass/speed/wind/depth/engine temp./atmospheric pressure, see [picture](pictures/NUCNavstation.jpg) - the old Simrad NX40 chart plotter with GPS/AIS/radar as backup
+ 5. New navigation station with following capabilities: chart/GPS/AIS/radar/compass/speed/wind/depth/engine temp./atmospheric pressure, see [picture](pictures/NUCNavstation.jpg), display: 16" USB-powered. The old Simrad NX40 chart plotter with GPS/AIS/radar as backup
 
 Smir
 
