@@ -117,12 +117,13 @@ Rabat
  5. Cockpit teak: all sanded until flat surface
  6. Toilet outlet tube cleaned
 
-# PLANNED 2019 Antifouling
+# PLANNED 2019
 
- 1. Mount temperature sensors: on top of engine head, on impeller housing plate and on exhaust elbow mixer
- 2. Replace 3 thru hulls, all parts (=bronze) on board, remaining to be serviced: head sink outlet + engine inlet
- 3. Solve depth sensor/cabling/controller malfunction, spare sensor+cable on board, if controller failed, replace with Actisense DST-2 at 250€ cost
- 4. Exhaust elbox replacement at 350€ cost
+ 1. Antifouling
+ 2. Mount temperature sensors: on top of engine head, on impeller housing plate and on exhaust elbow mixer
+ 3. Replace 3 thru hulls, all parts (=bronze) on board, remaining to be serviced: head sink outlet + engine inlet
+ 4. Solve depth sensor/cabling/controller malfunction, spare sensor+cable on board, if controller failed, replace with Actisense DST-2 at 250€ cost
+ 5. Exhaust elbow replacement at 350€ cost
  
 # PLANNED 2020
 
