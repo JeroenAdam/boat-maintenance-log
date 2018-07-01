@@ -46,7 +46,7 @@ Oostende
  3. New carbon mainsail (still in perfect condition today, almost not been used), see [picture](pictures/sailing04.jpg) and [picture](pictures/sailing03.jpg)
  4. New carbon genoa (never been used, still in original package)
  5. New portable VHF
- 6. New Mercury 2.5hp outboard (almost not been used)
+ 6. New Mercury 2.5hp outboard (almost not been used today)
  7. Anchor chain extended to 75m (original = 25m)
  8. New anchor (=2nd anchor) purchase: Bugel 24kg + inox swivel
  9. New 1000w 12v/220v inverter
@@ -88,6 +88,7 @@ Rabat
  3. Engine diesel filter changed (old filter = clean)
  4. New battery charger Cristec 40A (fanless)
  5. New sprayhood, see [picture](pictures/tanger2017.jpg)
+ 6. New infrared temperature gun (for troublehoosting engine/fridge/batteries)
 
 # 2017
 
