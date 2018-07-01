@@ -103,7 +103,7 @@ Rabat
 Smir
 
  1. Pressure wash, no new antifouling, see [picture](pictures/maintenance2017bakboord.jpg) [picture](pictures/maintenance2017schroef.jpg) [picture](pictures/maintenance2017stuurboord.jpg)
- 2. Volvo Dripless seal replaced, old seal = not leaking = spare
+ 2. Volvo Dripless seal replaced, old seal = not leaking = spare, see [picture](pictures/schroefas-plaatsen2.jpg)
  3. 2nd toilet outlet replaced, compartment converted to storage space, see [picture](pictures/rompdoorvoer-2de-toilet.jpg)
 
 # 2018
