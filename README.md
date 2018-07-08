@@ -114,7 +114,7 @@ Rabat
  2. Engine coolant change
  3. Engine raw water impeller change
  4. Engine total hours: 1200
- 5. Cockpit teak: all sanded until flat surface
+ 5. Cockpit teak sanded
  6. Toilet outlet tube cleaned
 
 # PLANNED 2019
