@@ -122,7 +122,7 @@ Rabat
  1. Gearbox oil change: Shell Spirax S2 ATF AX 
  2. Antifouling
  3. Mount temperature sensors: on top of engine head, on impeller housing plate and on exhaust elbow mixer
- 4. Replace 3 thru hulls, all parts (=bronze) on board, remaining to be serviced: head sink outlet + engine inlet
+ 4. Replace 3 thru hulls, all parts (=bronze, wood, epoxy) on board, remaining to be serviced: head sink outlet + engine inlet
  5. Solve depth sensor/cabling/controller malfunction, spare sensor+cable on board, if controller failed, replace with Actisense DST-2 at 250€ cost
  6. Exhaust elbow replacement at 350€ cost
  
