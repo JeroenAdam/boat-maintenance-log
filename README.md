@@ -43,8 +43,8 @@ Oostende
 
  1. New AIS receiver, stand-alone Navtex
  2. Solar installation (4x Victron 130W panel + mppt controller + tubing), see [picture](pictures/solar.jpg)
- 3. New carbon mainsail (still in perfect condition today, almost not been used), see [picture](pictures/sailing04.jpg) and [picture](pictures/sailing03.jpg)
- 4. New carbon genoa (never been used, still in original package)
+ 3. New laminate mainsail (still in perfect condition today, almost not been used), see [picture](pictures/sailing04.jpg) and [picture](pictures/sailing03.jpg)
+ 4. New laminate genoa (never been used, still in original package)
  5. New portable VHF
  6. New Mercury 2.5hp outboard (almost not been used today)
  7. Anchor chain extended to 75m (original = 25m)
