@@ -131,7 +131,8 @@ Rabat
  1. Renew saloon fabric
  2. Engine raw water impeller change (order Yanmar part 129670-42531 and 119773-42570)
  3. Service Johnson bilge pump, preventively replace housing at 90€ cost
- 4. 2x Optima red top battery refit (bow thruster) at 500€ cost
+ 4. Service Wind transducer, preventively replace wind vane and cups at 100€ cost, part no. A28167
+ 5. Purchase 2x Optima red top battery for a refit (bow thruster) at 500€ cost
 
 Pictures at marina Rabat 2013: [picture](http://www.akdn.org/sites/akdn/files/media/institutions/aga_khan_trust_for_culture/aga_khan_award_for_architecture/akaa2013-hassan_ii_bridge-morocco-02.jpg)
 Pictures at marina Rabat 2015: [picture1](https://farm1.staticflickr.com/606/21040956586_40c783ca7a_o.jpg)
