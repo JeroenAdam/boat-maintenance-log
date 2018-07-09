@@ -119,17 +119,19 @@ Rabat
 
 # PLANNED 2019
 
- 1. Antifouling
- 2. Mount temperature sensors: on top of engine head, on impeller housing plate and on exhaust elbow mixer
- 3. Replace 3 thru hulls, all parts (=bronze) on board, remaining to be serviced: head sink outlet + engine inlet
- 4. Solve depth sensor/cabling/controller malfunction, spare sensor+cable on board, if controller failed, replace with Actisense DST-2 at 250€ cost
- 5. Exhaust elbow replacement at 350€ cost
+ 1. Gearbox oil change: Shell Spirax S2 ATF AX 
+ 2. Antifouling
+ 3. Mount temperature sensors: on top of engine head, on impeller housing plate and on exhaust elbow mixer
+ 4. Replace 3 thru hulls, all parts (=bronze) on board, remaining to be serviced: head sink outlet + engine inlet
+ 5. Solve depth sensor/cabling/controller malfunction, spare sensor+cable on board, if controller failed, replace with Actisense DST-2 at 250€ cost
+ 6. Exhaust elbow replacement at 350€ cost
  
 # PLANNED 2020
 
  1. Renew saloon fabric
- 2. Service Johnson bilge pump, preventively replace housing at 90€ cost
- 3. 2x Optima red top battery refit (bow thruster) at 500€ cost
+ 2. Engine raw water impeller change (order Yanmar part 129670-42531 and 119773-42570)
+ 3. Service Johnson bilge pump, preventively replace housing at 90€ cost
+ 4. 2x Optima red top battery refit (bow thruster) at 500€ cost
 
 Pictures at marina Rabat 2013: [picture](http://www.akdn.org/sites/akdn/files/media/institutions/aga_khan_trust_for_culture/aga_khan_award_for_architecture/akaa2013-hassan_ii_bridge-morocco-02.jpg)
 Pictures at marina Rabat 2015: [picture1](https://farm1.staticflickr.com/606/21040956586_40c783ca7a_o.jpg)
