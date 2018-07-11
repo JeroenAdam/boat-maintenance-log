@@ -124,7 +124,7 @@ Rabat
  3. Mount temperature sensors: on top of engine head, on impeller housing plate and on exhaust elbow mixer
  4. Replace 3 thru hulls, all parts (=bronze, wood, epoxy) on board, remaining to be serviced: head sink outlet + engine inlet
  5. Solve depth sensor/cabling/controller malfunction, spare sensor+cable on board, if controller failed, replace with Actisense DST-2 at 250€ cost
- 6. Service steering chain: inspect + clean + apply white marine grease (Teflon)
+ 6. Service steering chain: inspect + clean + apply grease (Lewmar part no. 89100120 or white/Teflon marine grease)
  7. Exhaust elbow replacement at 350€ cost
  
 # PLANNED 2020
