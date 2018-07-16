@@ -1,4 +1,4 @@
-Engine YANMAR 4JH4-TE
+Engine YANMAR 4JH4-TE 75hp
 Transmission KANZAKI ZF30M, see 'docs' folder
 Mast Z-SPARS Z1100E, see 'docs' folder, ref 11713, code 74457
 Boom Z-SPARS furling, ref 16713, code 74458
@@ -8,7 +8,6 @@ Genoa 140% : 53m² Tape-Drive
 Windlass QUICK ANTARES 1000
 Anchor CQR 22kg + Bugel 24kg + 75m galvanized steel chain + spare swivel
 Harken 44.2 ST + 53.2 ST
-Extra halyard for genoa sleeve
 Harken big boat CB traveler, see 'docs' folder 
 Compass PLASTIMO OLYMPIC 135
 Lecombe & Schmitt hydraulic linear drive 40ST/50ST? (partno.?)
@@ -19,26 +18,27 @@ RAYMARINE ST60+ Wind
 AIRMAR ST800 Speed sensor
 AIRMAR P19 Depth sensor
 Bow thruster MAX POWER 7hp factory fitted
+Webasto Air Top 8500W
+Oven ENO "Le Chef", 4 burners + 42L oven/grill
+Extra halyard for genoa sleeve
 Midship cleats
-Hull rubrail (teak)
-Boat hooks (teak)
+Hull rub rail (teak)
 Simrad broadband radar BR24 + mast mount
 VHF fix NAVMAN VHF 7100
 VHF portable COBRA MR HH325 VP EU
 Boiler QUICK BX4012S
 Frigo VITRIFRIGO Ocean Runner JN250 - DANFOSS BD35F
-Webasto Air Top 8500W
 Toilet Jabsco (regular) 29120-2000
+Lewmar hatches + Ocean Air skyscreen (hatch) shades
 Bilge pump JOHNSON Viking Power 16 with Rule SV-35A floating switch
 Water pump JOHNSON Aqua Jet Flow Master WPS 5.0 Viking Power 16
 Whale gulper 320 
 Battery charger CRISTEC YPOWER 40A
 5 batteries Bosch S4 'Silver' 100AH (2017)
-Oven ENO "Le Chef", 4 burners + 42L oven/grill
 Inverter PRO USER 1000W
 Outboard MERCURY 2.5
 Aqua Signal navigation lights
-Lewmar hatches + Ocean Air skyscreen (hatch) shades
+Boat hooks (teak)
 Victron 4x Victron 130W panel + BlueSolar MPPT 40A
 ShipModul Miniplex-3 usb + Raspberry Pi 3B (OpenPlotter)
 Navigation station (OpenCPN) with 16" USB-powered display
