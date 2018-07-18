@@ -125,7 +125,7 @@ Rabat
  4. Replace 3 thru hulls, all parts (=bronze, wood, epoxy) on board, remaining to be serviced: head sink outlet + engine inlet
  5. Solve depth sensor/cabling/controller malfunction, spare sensor+cable on board, if controller failed, replace with Actisense DST-2 at 250€ cost
  6. Service steering chain: inspect + clean + apply grease (Lewmar part no. 89100120 or white/Teflon marine grease)
- 7. Exhaust elbow + gasket replacement at 350€ cost, see [here](http://www.ebay.com/itm/Stainless-Steel-Exhaust-Mixing-Elbow-Replaces-Yanmar-4JH-129673-13551-/232011702592)
+ 7. Exhaust elbow + gasket replacement at 350€ cost, see [here](https://www.ebay.co.uk/itm/L3P-Stainless-Steel-Exhaust-Mixing-Elbow-Replaces-Yanmar-4JH-129671-13552-/232300760705)
  8. Document engine temperature baseline with infrared thermometer, see [here](http://www.pbase.com/mainecruising/engine_temp)
  
 # PLANNED 2020
