@@ -110,7 +110,7 @@ Smir
 
 Rabat
 
- 1. Engine oil change
+ 1. Engine oil change (filter: tighten by hand, then turn an additional ¾ turn with the oil wrench)
  2. Engine coolant change
  3. Engine raw water impeller change
  4. Engine total hours: 1200
