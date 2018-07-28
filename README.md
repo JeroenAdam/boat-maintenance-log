@@ -54,7 +54,7 @@ Oostende
 Nieuwpoort
 
  1. Antifouling (Sigma Ecofleet 8L, copper), see [picture](pictures/maintenance.jpg)
- 2. Engine oil change
+ 2. Engine oil change (Yanmar SAE 15W40)
  3. P-bracket repair after propeller caught a 10mm line. The repair is documented [here](http://jeanneau.proboards.com/thread/4797/leak-bracket-joint-after-line)
 
 # 2013
