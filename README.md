@@ -68,7 +68,7 @@ Rabat
 
 Rabat
 
- 1. Engine oil change
+ 1. Engine oil change (Yanmar SAE 15W40)
  2. Engine coolant change
 
 # 2015
@@ -83,7 +83,7 @@ Smir
 
 Rabat
 
- 1. Engine oil change
+ 1. Engine oil change (Shell Helix HX5 15W40)
  2. Engine coolant change
  3. Engine diesel filter changed (old filter = clean)
  4. New battery charger Cristec 40A (fanless)
@@ -110,7 +110,7 @@ Smir
 
 Rabat
 
- 1. Engine oil change (filter: tighten by hand, then turn an additional ¾ turn with the oil wrench)
+ 1. Engine oil change (Shell Helix HX5 15W40)
  2. Engine coolant change
  3. Engine raw water impeller change
  4. Engine total hours: 1200
