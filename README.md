@@ -8,7 +8,7 @@ Drimmelen
 
   1. Delivery from factory and commissioning, see [picture](pictures/nagelnieuw.jpg)
   2. Two layers of epoxy gelshield
-  3. Antifouling 6.5L (International)
+  3. Antifouling 7.5L (International)
 
 Oostende
 
