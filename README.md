@@ -133,7 +133,7 @@ Rabat
  1. Renew saloon fabric
  2. Engine raw water impeller change (order Yanmar part 129670-42531 and 119773-42570)
  3. Service Johnson bilge pump, preventively replace housing at 90€ cost
- 4. Service Wind transducer, preventively replace wind vane and cups at 100€ cost, part no. A28167
+ 4. Service wind transducer, preventively replace wind vane and cups at 100€ cost, part no. A28167
  5. Purchase 2x Optima red top battery for a refit (bow thruster) at 500€ cost
  6. Yanmar tach-hour meter LCD repair, documented [here](https://forums.sailboatowners.com/index.php?attachments/repair-of-yanmar-tach-updated-pdf.59966) and [here](http://www.ourboat.net/cruising-blog/62-vdo-engine-hours-tacho-repair), VDO part no. N02012195
 
