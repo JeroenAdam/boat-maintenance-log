@@ -110,7 +110,7 @@ Smir
 
 Rabat
 
- 1. Engine oil change (Texamatic 7045E or Shell Helix HX5 15W40)
+ 1. Engine oil change (Shell Helix HX5 15W40)
  2. Engine coolant change
  3. Engine raw water impeller change
  4. Engine total hours: 1200
@@ -119,7 +119,7 @@ Rabat
 
 # PLANNED 2019
 
- 1. Gearbox oil change: Shell Spirax S2 ATF AX 
+ 1. Gearbox oil change: Texamatic 7045E or Shell Spirax S2 ATF AX 
  2. Antifouling
  3. Mount temperature sensors: on top of engine head, on impeller housing plate and on exhaust elbow mixer
  4. Replace 3 thru hulls, all parts (=bronze, wood, epoxy) on board, remaining to be serviced: head sink outlet + engine inlet
