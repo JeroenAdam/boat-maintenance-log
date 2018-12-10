@@ -110,7 +110,7 @@ Smir
 
 Rabat
 
- 1. Engine oil change (Shell Helix HX5 15W40)
+ 1. Engine oil change (Texamatic 7045E or Shell Helix HX5 15W40)
  2. Engine coolant change
  3. Engine raw water impeller change
  4. Engine total hours: 1200
