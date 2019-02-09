@@ -76,7 +76,7 @@ Rabat
 Smir
 
  1. Antifouling (Hempel Olympic, copper, 19L!)
- 2. Cutlass bearing replaced, see [picture](pictures/cutlass.jpg)
+ 2. Cutlass bearing replaced S=1 7/8", L=5.5", see [picture](pictures/cutlass.jpg)
  3. Engine coolant change
 
 # 2016
