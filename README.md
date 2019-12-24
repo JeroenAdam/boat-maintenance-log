@@ -86,7 +86,7 @@ Rabat
  1. Engine oil change (Shell Helix HX5 15W40)
  2. Engine coolant change
  3. Engine diesel filter changed (old filter = clean)
- 4. New battery charger Cristec 40A (fanless)
+ 4. New battery charger Cristec Ypower 40A (fanless)
  5. New sprayhood, see [picture](pictures/tanger2017.jpg)
  6. New infrared temperature gun (for troublehoosting engine/fridge/batteries)
 
