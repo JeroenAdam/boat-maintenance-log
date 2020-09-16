@@ -1,8 +1,8 @@
-# Maintenance log of my Jeanneau Sun Odyssey 45 DS
+## Maintenance log of my Jeanneau Sun Odyssey 45 DS
 
 My BLOG with stories about my voyages: http://www.adambahri.com
 
-# 2008
+## 2008
 
 Drimmelen
 
@@ -14,7 +14,7 @@ Oostende
 
  1. Engine + gearbox fully serviced at 50h (done by Yanmar dealer)
 
-# 2009
+## 2009
 
 Oostende
 
@@ -25,19 +25,19 @@ Cherbourgh
  1. Antifouling 7.5L (International Micron)
  2. Exhaust water muffler inlet nipple leak has been fixed by resealing with heavy duty black 'cement' (done by Accastillage Diffusion)
 
-# 2010
+## 2010
 
 Oostende
 
  1. Engine + gearbox fully serviced at 550h (done by Yanmar dealer)
 
-# 2011
+## 2011
 
 Antwerpen
 
  1. Antifouling (Sigma Ecofleet 12L, copper)
 
-# 2012
+## 2012
 
 Oostende
 
@@ -57,21 +57,21 @@ Nieuwpoort
  2. Engine oil change (Yanmar SAE 15W40)
  3. P-bracket repair after propeller caught a 10mm line. The repair is documented [here](http://jeanneau.proboards.com/thread/4797/leak-bracket-joint-after-line)
 
-# 2013
+## 2013
 
 Rabat
 
  1. Engine coolant change
  2. 9L washing machine 220v (cheap), easily stored in the cockpit, attached to railing, see [picture](pictures/tanger2017.jpg)
 
-# 2014
+## 2014
 
 Rabat
 
  1. Engine oil change (Yanmar SAE 15W40)
  2. Engine coolant change
 
-# 2015
+## 2015
 
 Smir
 
@@ -79,7 +79,7 @@ Smir
  2. Cutlass bearing replaced S=1 7/8", L=5.5", see [picture](pictures/cutlass.jpg)
  3. Engine coolant change
 
-# 2016
+## 2016
 
 Rabat
 
@@ -90,7 +90,7 @@ Rabat
  5. New sprayhood, see [picture](pictures/tanger2017.jpg)
  6. New infrared temperature gun (for troublehoosting engine/fridge/batteries)
 
-# 2017
+## 2017
 
 Rabat
 
@@ -106,7 +106,7 @@ Smir
  2. Volvo Dripless seal replaced, old seal = not leaking = spare, see [picture](pictures/schroefas-plaatsen2.jpg)
  3. 2nd toilet outlet replaced, compartment converted to storage space, see [picture](pictures/rompdoorvoer-2de-toilet.jpg)
 
-# 2018
+## 2018
 
 Rabat
 
@@ -117,7 +117,7 @@ Rabat
  5. Cockpit teak sanded
  6. Toilet outlet tube cleaned
 
-# PLANNED 2019
+## PLANNED 2019
 
  1. Gearbox oil change: Texamatic 7045E or Shell Spirax S2 ATF AX 
  2. Antifouling
@@ -128,7 +128,7 @@ Rabat
  7. Exhaust elbow + gasket replacement at 350€ cost, see [here](https://www.ebay.co.uk/itm/L3P-Stainless-Steel-Exhaust-Mixing-Elbow-Replaces-Yanmar-4JH-129671-13552-/232300760705)
  8. Document engine temperature baseline with infrared thermometer, see [here](http://www.pbase.com/mainecruising/engine_temp)
  
-# PLANNED 2020
+## PLANNED 2020
 
  1. Renew saloon fabric
  2. Engine raw water impeller change (order Yanmar part 129670-42531 and 119773-42570)
