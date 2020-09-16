@@ -1,4 +1,4 @@
-## Maintenance log of my Jeanneau Sun Odyssey 45 DS
+### Maintenance log of my Jeanneau Sun Odyssey 45 DS
 
 My BLOG with stories about my voyages: http://www.adambahri.com
 
