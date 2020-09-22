@@ -14,7 +14,7 @@ Oostende
 
 Oostende
 
- 1. New Simrad NX40 chart plotter + Simard digital radar BR24 (currently using tablet for radar, see [picture](pictures/TouchNavstation.jpg))
+ 1. New Simrad NX40 chart plotter + Simard digital radar BR24 (currently using USB-powered 15.6" screen for radar, see [picture](pictures/NUCNavstation.jpg))
 
 Cherbourgh
 
