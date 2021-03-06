@@ -2,7 +2,7 @@
 
 Drimmelen
 
-  1. Delivery from factory and commissioning, see [picture](pictures/nagelnieuw.jpg)
+  1. Delivery from factory and commissioning, see [picture](https://www.adambahri.com/nagelnieuw.jpg)
   2. Two layers of epoxy gelshield
   3. Antifouling 7.5L (International)
 
