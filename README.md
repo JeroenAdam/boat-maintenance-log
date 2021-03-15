@@ -137,4 +137,4 @@ Pictures at marina Rabat 2013: [picture](http://www.akdn.org/sites/akdn/files/me
 Pictures at marina Rabat 2015: [picture1](https://farm1.staticflickr.com/606/21040956586_40c783ca7a_o.jpg)
  [picture2](https://farm6.staticflickr.com/5826/20446117753_96da7a6efa_o.jpg)
 
-My BLOG with stories about my voyages: http://www.adambahri.com
+My BLOG with stories about my voyages: https://www.adambahri.com
