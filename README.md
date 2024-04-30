@@ -130,8 +130,9 @@ Rabat
  1. Engine raw water impeller change (order Yanmar part 129670-42531 and 119773-42570)
  2. Service Johnson bilge pump, replace housing at 90€ cost
  3. Service wind transducer, preventively replace wind vane and cups at 100€ cost, part no. A28167
- 4. Purchase 2x Optima red top battery for a refit (bow thruster) at 500€ cost
- 5. Yanmar tach-hour meter LCD repair, see [video](https://www.youtube.com/watch?v=eldRUU7qc2Y) and documented [here](https://forums.sailboatowners.com/index.php?attachments/repair-of-yanmar-tach-updated-pdf.59966) and [here](http://www.ourboat.net/cruising-blog/62-vdo-engine-hours-tacho-repair), VDO part no. N02012195
+ 4. Service anchor windlass https://www.youtube.com/watch?v=8WH0diHn-rk
+ 5. Purchase 2x Optima red top battery for a refit (bow thruster) at 500€ cost
+ 6. Yanmar tach-hour meter LCD repair, see [video](https://www.youtube.com/watch?v=eldRUU7qc2Y) and documented [here](https://forums.sailboatowners.com/index.php?attachments/repair-of-yanmar-tach-updated-pdf.59966) and [here](http://www.ourboat.net/cruising-blog/62-vdo-engine-hours-tacho-repair), VDO part no. N02012195
 
 Pictures at marina Rabat 2013: [picture](http://www.akdn.org/sites/akdn/files/media/institutions/aga_khan_trust_for_culture/aga_khan_award_for_architecture/akaa2013-hassan_ii_bridge-morocco-02.jpg)
 Pictures at marina Rabat 2015: [picture1](https://farm1.staticflickr.com/606/21040956586_40c783ca7a_o.jpg)
